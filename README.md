@@ -1,2 +1,2 @@
 # weather-forecast
-It is a weather prediction web app , forecast Temperature and humidity for next 5 hours and show current weather condition 
+It is a weather prediction web app , forecast Temperature and humidity for next 5 hours and show current weather condition.
